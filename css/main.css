@@ -1,0 +1,33 @@
+body
+{
+		font-family:arial;
+}
+h1
+{
+	padding-top:0;
+	margin-top:0;
+} 
+td,th
+{
+	vertical-align: text-top;
+}
+.boxit
+{
+	border-style: solid;
+	border-width:1px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+	padding-bottom:4px;
+	margin-bottom:10px;
+	background-color:white;
+}
+.tglbtn
+{
+	border-style: solid;
+	border-width:1px;
+	padding-left:2px;
+	padding-right:0;
+	padding-top:2px;
+	padding-bottom:2px;
+}
